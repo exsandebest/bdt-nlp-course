@@ -1,10 +1,10 @@
-# NLP Practice with LLMs – Homework Notebooks
+# NLP with LLMs: Text Classification using Transformer and Retrieval-Augmented Question Answering
 
 This repository contains two homework notebooks from the **NLP Practice course on LLMs** course by **[BigData Team](https://bigdatateam.org)**. Each notebook demonstrates different applications of Large Language Models (LLMs) for various NLP tasks, including text classification and question answering using retrieval-augmented generation (RAG).
 
 ## Notebooks Overview
 
-### 1. `NLP_LLM_Transformer_baseline.ipynb`
+### 1. [`NLP_LLM_Transformer_baseline.ipynb`](https://github.com/exsandebest/bdt-nlp-course/blob/main/NLP_LLM_Transformer_baseline.ipynb)
 **Task**: Text Classification using Transformers
 
 - Implements an end-to-end NLP workflow using `distilbert-base-uncased` by default for text classification tasks
@@ -15,7 +15,7 @@ This repository contains two homework notebooks from the **NLP Practice course o
 
 This notebook serves as a strong baseline for fine-tuning transformer models for classification tasks and can be easily adapted for other datasets or models.
 
-### 2. `LLM_Question_Answering_with_RAG.ipynb`
+### 2. [`LLM_Question_Answering_with_RAG.ipynb`](https://github.com/exsandebest/bdt-nlp-course/blob/main/LLM_Question_Answering_with_RAG.ipynb)
 **Task**: Question Answering using Retrieval-Augmented Generation (RAG)
 
 - Demonstrates an experiment using a Large Language Model (LLM) for question answering, with and without retrieval-augmented generation (RAG)
